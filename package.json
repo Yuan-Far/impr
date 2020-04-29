@@ -20,6 +20,7 @@
     "intersection-observer": "^0.10.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "ts-loader": "^7.0.1",
     "webpack": "^4.43.0"
   },
   "devDependencies": {
