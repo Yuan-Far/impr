@@ -2,8 +2,9 @@
   "name": "impr",
   "version": "1.0.3",
   "description": "this is impr track",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
